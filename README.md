@@ -65,6 +65,16 @@ git push origin <branch-name>
 ```
 git push origin XYZ
 ```
+### 6) To delete a local branch
+
+```
+git branch -D <branch-name>
+```
+#### For Example:
+* To delete a local branch XYZ come out of that branch and execute the command
+```
+git branch -D XYZ
+```
 
 
 
